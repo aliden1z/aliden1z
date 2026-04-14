@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://alideniz.me">
-    <img width="80%" alt="Hi, I'm Ali Deniz" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Ali+Deniz.;Open+Source+Contributor.;Linux+User.;After+Effects+Editor." />
+    <img width="80%" alt="Hi, I'm Ali Deniz" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Ali+Deniz;Open+Source+Contributor;Linux+User;After+Effects+Editor" />
   </a>
 </p>
 
@@ -25,23 +25,6 @@ I’m a 9th grade student at **Hatay Science High School**, interested in buildi
   <code><img height="25" alt="linux" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
   <code><img height="25" alt="git" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
 </p>
-
-## GitHub stats
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=aliden1z&show_icons=true&theme=tokyonight&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliden1z&layout=compact&theme=tokyonight&hide_border=true" /> |
-| ------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-## Featured projects
-
-<p>
-  <a href="https://github.com/aliden1z/vessel-journal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliden1z&repo=vessel-journal&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/aliden1z/termind">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliden1z&repo=termind&theme=tokyonight" />
-  </a>
-</p>
-
 ---
 
 <p align="center">
